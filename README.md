@@ -1,14 +1,40 @@
-# MERN_STACK_CHAT_APP_BY_HASRAT
-Mongo DB , Express , React JS , Node JS.
+# Mern_Stack_Chat_App_by_hasrat
 
-<h2>Signup Page</h2>
+> Developed by **Hasrat** | MERN Web Developer & Web App Penetration Tester
 
-![Screenshot 2024-10-19 190151](https://github.com/user-attachments/assets/3ccc28c0-6adc-472f-afdd-14e4e7f59fcc)
+## 📌 About
 
-<h2>Login Page</h2>
+This project is part of my development journey as a MERN Web Developer and Web Application Penetration Tester.
 
-![Screenshot 2024-10-19 190137](https://github.com/user-attachments/assets/4810e406-802d-458d-9c15-bc60ad3b039d)
+## 🛠️ Tech Stack
 
-<h2>App Interface</h2>
+- **Type:** Documentation
+- **Developer:** Hasrat270
+- **Focus:** Web Development & Security
 
-![Screenshot 2024-10-19 190445](https://github.com/user-attachments/assets/143508cd-6f64-4459-9a17-cc0b42f31fbd)
+## 🚀 Getting Started
+
+```bash
+# Clone the repository
+git clone https://github.com/Hasrat270/Mern_Stack_Chat_App_by_hasrat.git
+
+# Navigate to project
+cd Mern_Stack_Chat_App_by_hasrat
+```
+
+## 👨‍💻 About Me
+
+I'm Hasrat — a **MERN Web Developer** and **Web App Penetration Tester**.
+
+- 🌐 Web Development: React, Node.js, Express, MongoDB
+- 🔐 Security: Web Application Penetration Testing, Bug Bounty
+- 📚 Currently: Expanding skills in both development and cybersecurity
+
+## 📫 Contact
+
+- **GitHub:** [Hasrat270](https://github.com/Hasrat270)
+- **Email:** hasrat3701@gmail.com
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
